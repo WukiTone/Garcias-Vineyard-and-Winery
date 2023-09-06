@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garcia's Vineyard and Winery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#wines">Wines</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>Welcome to Garcia's Vineyard and Winery</h1>
+        <p>Discover the finest wines from our vineyard</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.</p>
+    </section>
+    
+    <section id="wines">
+        <h2>Our Wines</h2>
+        <p>Explore our exquisite collection of wines.</p>
+        <!-- You can add your wine listings here -->
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Contact information goes here.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; Garcia's Vineyard and Winery</p>
+    </footer>
+</body>
+</html>
